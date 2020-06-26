@@ -1,14 +1,14 @@
 Package: com.wiimob.wiiauto
-Version: 0.0.61-1
+Version: 0.0.62-1
 Architecture: iphoneos-arm
 Maintainer: mtd
 Installed-Size: 48676
-Depends: mobilesubstrate, openssh, unzip, Git, WifiUtil
-Filename: Files/com.wiimob.wiiauto_0.0.61-1_iphoneos-arm.deb
-Size: 18814268
-MD5sum: 632351d4e94c0f715407f2cb7f56f0c8
-SHA1: a88127dc0c9f302e58a159130704a8565b1e462c
-SHA256: 73d65872e7b1bd76d49dd21decb1398435bbd32fdaf274261ab4cdde24c6e2d0
+Depends: mobilesubstrate, openssh, unzip, Git, org.thebigboss.wifiutil
+Filename: Files/com.wiimob.wiiauto_0.0.62-1_iphoneos-arm.deb
+Size: 18814294
+MD5sum: b2d685bf39f2f51c6d39038ea2a94e6e
+SHA1: 471a433d5168de398357fc2c7feb6edf54f9c7f9
+SHA256: b4617d16773772ea59df4d38eaa72c33fca301d4f24bb0d94a43285b840dfc8a
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: mtd
