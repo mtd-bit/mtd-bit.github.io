@@ -1,0 +1,16 @@
+Package: com.wiimob.wiiauto
+Version: 0.0.59-6
+Architecture: iphoneos-arm
+Maintainer: mtd
+Installed-Size: 48676
+Depends: mobilesubstrate
+Filename: Files/com.wiimob.wiiauto_0.0.59-6_iphoneos-arm.deb
+Size: 18814232
+MD5sum: 1738cab6f6267c7c64cb1f9de78205ca
+SHA1: 76a4f0a1e688131e85cee3bf42dbb1918f155973
+SHA256: 0e508e7da613440463d74e9913df6573aef6edddb2f3bf22c9e5819cc9f89be0
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: mtd
+Name: wiiauto
+

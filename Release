@@ -1,0 +1,8 @@
+Origin: mtd
+Label: mtd's repo
+Suite: stable
+Version: 1.0
+Codename: mtd
+Architectures: iphoneos-arm
+Components: main
+Description: mtd's Cydia Repository
