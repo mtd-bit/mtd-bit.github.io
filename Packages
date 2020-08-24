@@ -78,32 +78,16 @@ Description: An awesome application!
 Author: mtd
 Name: WiiAuto
 
-Package: com.mtd.wiiautoupdater
-Version: 0.0.4-1
-Architecture: iphoneos-arm
-Maintainer: mtd
-Installed-Size: 156
-Filename: Files/com.mtd.wiiautoupdater_0.0.4-1_iphoneos-arm.deb
-Size: 2700
-MD5sum: fea3a33f52b8013eeeedd4f184394681
-SHA1: 2e26f52da058e1bb8671cf5a3454986a9c7ff9f2
-SHA256: 4b371b0f02a92014feae712add3611557f330c4ece4b1eaf8d57ec79b0b18064
-Section: System
-Description: An awesome tool of some sort!!
-Tag: role::hacker
-Author: mtd
-Name: wiiauto_updater
-
 Package: com.mtd.wiiautowatcher
-Version: 0.0.1-1
+Version: 0.0.2-1
 Architecture: iphoneos-arm
 Maintainer: mtd
 Installed-Size: 156
-Filename: Files/com.mtd.wiiautowatcher_0.0.1-1_iphoneos-arm.deb
-Size: 2978
-MD5sum: 2fadd2bfed3f3153876cfce8b3ca3e15
-SHA1: 000d5132a92f8b131a1f78946e2866907eada749
-SHA256: 630eea17a8caa6c527e52e2302851a826c46b35d2608008e4811b6cf4b5b3cc4
+Filename: Files/com.mtd.wiiautowatcher_0.0.2-1_iphoneos-arm.deb
+Size: 2748
+MD5sum: 98a88549d012b9b594bc898f17d69a22
+SHA1: 2516c33e28eef4d68e65b83b6acf96fac03f5c6e
+SHA256: c338b388e2955311d78919ef1e79a164a91765191f2e134f8ce3428e5a0a10bb
 Section: System
 Description: An awesome tool of some sort!!
 Tag: role::hacker
@@ -111,16 +95,16 @@ Author: mtd
 Name: wiiautowatcher
 
 Package: com.wiimob.wiiauto
-Version: 0.0.71-1
+Version: 0.0.72-1
 Architecture: iphoneos-arm
 Maintainer: mtd
 Installed-Size: 2516
-Depends: mobilesubstrate, openssh, unzip, Git, org.thebigboss.wifiutil, com.mtd.ioslua, com.mtd.libcherry, com.mtd.libluaext, com.mtd.libluasqlite3, com.mtd.wiiautowatcher, com.mtd.wiiautoupdater
-Filename: Files/com.wiimob.wiiauto_0.0.71-1_iphoneos-arm.deb
-Size: 1348238
-MD5sum: dfeda55dcaab738a7f824bfdb9128073
-SHA1: 6a24ed0a770d4e35199680a215faf7ecd8b4e4b7
-SHA256: 1921818064b6adf84b0f58188e7082d00f1301f73f2941521d8666c750eb975d
+Depends: mobilesubstrate, openssh, unzip, Git, org.thebigboss.wifiutil, com.mtd.ioslua, com.mtd.libcherry, com.mtd.libluaext, com.mtd.libluasqlite3, com.mtd.wiiautowatcher
+Filename: Files/com.wiimob.wiiauto_0.0.72-1_iphoneos-arm.deb
+Size: 1348246
+MD5sum: 3c7e26751801b7653f29fdcf22a2f404
+SHA1: c5bd2621a0f7dc967976f5757a41908be5299ffa
+SHA256: 95ab3919b28320f0a8d88b8f10376bbfb8faa20efa8193226eab269b082024e8
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: mtd
