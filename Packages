@@ -1,14 +1,78 @@
-Package: com.wiimob.wiiauto
-Version: 0.0.65-3
+Package: com.mtd.ioslua
+Version: 0.0.1-4
 Architecture: iphoneos-arm
 Maintainer: mtd
-Installed-Size: 48692
-Depends: mobilesubstrate, openssh, unzip, Git, org.thebigboss.wifiutil
-Filename: Files/com.wiimob.wiiauto_0.0.65-3_iphoneos-arm.deb
-Size: 18817094
-MD5sum: 6e828d4eda96665266f1219d48c78922
-SHA1: 51ed3ffac17698c808e5f8c3f7bc74ec3dfc86f6
-SHA256: 08d460eeba740562a206123caf86aa67e0e1813455a38d5410e3486a7bed784a
+Installed-Size: 388
+Filename: Files/com.mtd.ioslua_0.0.1-4_iphoneos-arm.deb
+Size: 135580
+MD5sum: 5e53365f4b674c30c3728b61a8ab7f9c
+SHA1: 39343e859282d5724f1da210d2a47d75bc23071e
+SHA256: 91cab82d70d8931cf9469a242572388524620e3cac572548372e7a2f9de8ce3b
+Section: System
+Description: An awesome library of some sort!!
+Tag: role::developer
+Author: mtd
+Name: ioslua
+
+Package: com.mtd.libcherry
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: mtd
+Installed-Size: 4604
+Filename: Files/com.mtd.libcherry_0.0.1-1_iphoneos-arm.deb
+Size: 1976808
+MD5sum: 27f5f4e3e9d7d5a3ea259e73e4de1c93
+SHA1: 7391388dc68fcb52521b62a6e831a39e838c180c
+SHA256: 2e8c74d88d4e8dcf1df8b646d83d19c18bf34494ca073506f6bdeb6207f4d968
+Section: System
+Description: An awesome library of some sort!!
+Tag: role::developer
+Author: mtd
+Name: libcherry
+
+Package: com.mtd.libluaext
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: mtd
+Installed-Size: 41072
+Filename: Files/com.mtd.libluaext_0.0.1-1_iphoneos-arm.deb
+Size: 15292376
+MD5sum: 97713cc321feda15919e13c50b0c3bae
+SHA1: 50229258b4a701245e333cbfe7bebdeeada50839
+SHA256: 742df1f5bdc5fc6d4da07d71c156f27ad96cea3cacddbc3ea52e3d8dfbf3b116
+Section: System
+Description: An awesome library of some sort!!
+Tag: role::developer
+Author: mtd
+Name: libluaext
+
+Package: com.mtd.libluasqlite3
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: mtd
+Installed-Size: 172
+Filename: Files/com.mtd.libluasqlite3_0.0.1-1_iphoneos-arm.deb
+Size: 18532
+MD5sum: 05540bc3cc2253788ef9593d4dd223e0
+SHA1: 582815bbe666fa18e01036351955828ed485fe57
+SHA256: b69b46e83d63d748464ab58d913ba4337d7274cb5f8b4040f8207ff4266720b7
+Section: System
+Description: An awesome library of some sort!!
+Tag: role::developer
+Author: mtd
+Name: libluasqlite3
+
+Package: com.wiimob.wiiauto
+Version: 0.0.66-4
+Architecture: iphoneos-arm
+Maintainer: mtd
+Installed-Size: 3092
+Depends: mobilesubstrate, openssh, unzip, Git, org.thebigboss.wifiutil, com.mtd.ioslua, com.mtd.libcherry, com.mtd.libluaext, com.mtd.libluasqlite3
+Filename: Files/com.wiimob.wiiauto_0.0.66-4_iphoneos-arm.deb
+Size: 1442916
+MD5sum: 98f5d112f1b75f655a0a88f4110c2a42
+SHA1: a5774b3e804e17dfe0e8b526ab9e943ee4a17893
+SHA256: 919713429cf1ad0d472b843b039998b04bedd22887a64fd8104372a21bb7e8e2
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: mtd
