@@ -79,15 +79,15 @@ Author: mtd
 Name: WiiAuto
 
 Package: com.mtd.wiiautowatcher
-Version: 0.0.4-1
+Version: 0.0.5-1
 Architecture: iphoneos-arm
 Maintainer: mtd
 Installed-Size: 172
-Filename: Files/com.mtd.wiiautowatcher_0.0.4-1_iphoneos-arm.deb
-Size: 3452
-MD5sum: c99639e529723cec060fe9ba7adcc450
-SHA1: 4e683b6dc1c6612a467dab74b489156f3dc6ef58
-SHA256: 0cdcb50652c49a3a445360d169b30575897f9eea81445f02ee8eda2623e137e5
+Filename: Files/com.mtd.wiiautowatcher_0.0.5-1_iphoneos-arm.deb
+Size: 3092
+MD5sum: 59bbc884253caf858c784c84846bd158
+SHA1: ebd871764e337de161490bd4c464c5f823f50e16
+SHA256: d7d167266427d4d8e1be86cde4f2cade2049d8171eaf5c64bfb6cc327543040d
 Section: System
 Description: An awesome tool of some sort!!
 Tag: role::hacker
