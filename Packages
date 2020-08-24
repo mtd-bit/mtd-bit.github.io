@@ -79,32 +79,48 @@ Author: mtd
 Name: WiiAuto
 
 Package: com.mtd.wiiautoupdater
-Version: 0.0.3-1
+Version: 0.0.4-1
 Architecture: iphoneos-arm
 Maintainer: mtd
 Installed-Size: 156
-Filename: Files/com.mtd.wiiautoupdater_0.0.3-1_iphoneos-arm.deb
-Size: 3012
-MD5sum: a9d511e67ee236031fe8c639b3378720
-SHA1: 1a75b481f412334829d15da5e92348aa59c260cd
-SHA256: 32eb048c11206919d44dd98ffcbe97865abdad26d70aeef768644a059773acf6
+Filename: Files/com.mtd.wiiautoupdater_0.0.4-1_iphoneos-arm.deb
+Size: 2700
+MD5sum: fea3a33f52b8013eeeedd4f184394681
+SHA1: 2e26f52da058e1bb8671cf5a3454986a9c7ff9f2
+SHA256: 4b371b0f02a92014feae712add3611557f330c4ece4b1eaf8d57ec79b0b18064
 Section: System
 Description: An awesome tool of some sort!!
 Tag: role::hacker
 Author: mtd
 Name: wiiauto_updater
 
+Package: com.mtd.wiiautowatcher
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: mtd
+Installed-Size: 156
+Filename: Files/com.mtd.wiiautowatcher_0.0.1-1_iphoneos-arm.deb
+Size: 2978
+MD5sum: 2fadd2bfed3f3153876cfce8b3ca3e15
+SHA1: 000d5132a92f8b131a1f78946e2866907eada749
+SHA256: 630eea17a8caa6c527e52e2302851a826c46b35d2608008e4811b6cf4b5b3cc4
+Section: System
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Author: mtd
+Name: wiiautowatcher
+
 Package: com.wiimob.wiiauto
-Version: 0.0.70-1
+Version: 0.0.71-1
 Architecture: iphoneos-arm
 Maintainer: mtd
 Installed-Size: 2516
-Depends: mobilesubstrate, openssh, unzip, Git, org.thebigboss.wifiutil, com.mtd.ioslua, com.mtd.libcherry, com.mtd.libluaext, com.mtd.libluasqlite3
-Filename: Files/com.wiimob.wiiauto_0.0.70-1_iphoneos-arm.deb
-Size: 1348230
-MD5sum: 7a7c6c643a3766a12e3c08e2efc40a56
-SHA1: b31c36b6c6fa2c9a03d567e2593e785a1857692e
-SHA256: ebac2eb9825eba70a8c3e3d06d85b18c10d29745994d0c85f49f5728be59d1ce
+Depends: mobilesubstrate, openssh, unzip, Git, org.thebigboss.wifiutil, com.mtd.ioslua, com.mtd.libcherry, com.mtd.libluaext, com.mtd.libluasqlite3, com.mtd.wiiautowatcher, com.mtd.wiiautoupdater
+Filename: Files/com.wiimob.wiiauto_0.0.71-1_iphoneos-arm.deb
+Size: 1348238
+MD5sum: dfeda55dcaab738a7f824bfdb9128073
+SHA1: 6a24ed0a770d4e35199680a215faf7ecd8b4e4b7
+SHA256: 1921818064b6adf84b0f58188e7082d00f1301f73f2941521d8666c750eb975d
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: mtd
