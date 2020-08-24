@@ -63,16 +63,16 @@ Author: mtd
 Name: libluasqlite3
 
 Package: com.mtd.wiiautoapp
-Version: 0.0.1-1
+Version: 0.0.2-1
 Architecture: iphoneos-arm
 Maintainer: mtd
 Installed-Size: 416
 Depends: com.wiimob.wiiauto
-Filename: Files/com.mtd.wiiautoapp_0.0.1-1_iphoneos-arm.deb
-Size: 71566
-MD5sum: 4db1d85f3ba9358e1265ee56e5b2e60f
-SHA1: 92456ebe332dc0c7061ea09c61799a642da46e8c
-SHA256: dde9da3e4e84ea0518a6f8467327854148bdd793f8d47b0ccb6279faedad25d7
+Filename: Files/com.mtd.wiiautoapp_0.0.2-1_iphoneos-arm.deb
+Size: 71560
+MD5sum: eb31cb26b69245b3322720868cd61732
+SHA1: 50b7d7fbaaefca2b03832b43629dad8bbc31e58f
+SHA256: e22b6fc8bed42893c192c7300982163cd965055c525afaac2045b888e3e3dc86
 Section: Utilities
 Description: An awesome application!
 Author: mtd
