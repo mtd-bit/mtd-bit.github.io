@@ -79,15 +79,15 @@ Author: mtd
 Name: WiiAuto
 
 Package: com.mtd.wiiautoupdater
-Version: 0.0.1-2
+Version: 0.0.2-1
 Architecture: iphoneos-arm
 Maintainer: mtd
 Installed-Size: 156
-Filename: Files/com.mtd.wiiautoupdater_0.0.1-2_iphoneos-arm.deb
-Size: 3046
-MD5sum: 7fab0c3010bcb461b54216d32860db34
-SHA1: ccc58d83ea3c0abb016d559fd12e01eb52856906
-SHA256: 2dd9210ee27b3a4c16c10e500261afc5e49d04bbec673cfa973f0c04ab997b5a
+Filename: Files/com.mtd.wiiautoupdater_0.0.2-1_iphoneos-arm.deb
+Size: 3016
+MD5sum: 42abe673a53a8cf4223569423223663e
+SHA1: fe2f4bcdf393c0ee2a1899e8c2441520d6dafff4
+SHA256: 0af07972ced9abb295a512a0cfce389f28d5d97c8b9af685b7b9d96f5adc2f44
 Section: System
 Description: An awesome tool of some sort!!
 Tag: role::hacker
