@@ -78,6 +78,22 @@ Description: An awesome application!
 Author: mtd
 Name: WiiAuto
 
+Package: com.mtd.wiiautoupdater
+Version: 0.0.1-2
+Architecture: iphoneos-arm
+Maintainer: mtd
+Installed-Size: 156
+Filename: Files/com.mtd.wiiautoupdater_0.0.1-2_iphoneos-arm.deb
+Size: 3046
+MD5sum: 7fab0c3010bcb461b54216d32860db34
+SHA1: ccc58d83ea3c0abb016d559fd12e01eb52856906
+SHA256: 2dd9210ee27b3a4c16c10e500261afc5e49d04bbec673cfa973f0c04ab997b5a
+Section: System
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Author: mtd
+Name: wiiauto_updater
+
 Package: com.wiimob.wiiauto
 Version: 0.0.70-1
 Architecture: iphoneos-arm
