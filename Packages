@@ -78,6 +78,22 @@ Description: An awesome application!
 Author: mtd
 Name: WiiAuto
 
+Package: com.mtd.wiiautotool
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: mtd
+Installed-Size: 144
+Filename: Files/com.mtd.wiiautotool_0.0.1-1_iphoneos-arm.deb
+Size: 4256
+MD5sum: 6bbe2168612c255ca535ac91fd629a0b
+SHA1: db7403742efd3d4a788569d57b9857995d75039e
+SHA256: f596e304ca8717268e0fc5d988bd9e138451d5ae1f7dc71c07b92f4c71088635
+Section: System
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Author: mtd
+Name: wiiautotool
+
 Package: com.mtd.wiiautowatcher
 Version: 0.0.8-1
 Architecture: iphoneos-arm
