@@ -1,3 +1,19 @@
+Package: com.mtd.imessagecache
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: mtd
+Installed-Size: 132
+Filename: Files/com.mtd.imessagecache_0.0.1-1_iphoneos-arm.deb
+Size: 3428
+MD5sum: feb2c1efe2e256c38c9a534a33c47f1b
+SHA1: 8511b1b296b8246aa8b244c24f84bd05edfa7a8f
+SHA256: 90e98f3a65cfcef498bdd96fdac9d64e85680118feb8a5c9cbeada4f9935e826
+Section: System
+Description: An awesome library of some sort!!
+Tag: role::developer
+Author: mtd
+Name: imessagecache
+
 Package: com.mtd.ioslua
 Version: 0.0.1-4
 Architecture: iphoneos-arm
