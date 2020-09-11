@@ -1,13 +1,13 @@
 Package: com.mtd.imessagecache
-Version: 0.0.1-1
+Version: 0.0.2-1
 Architecture: iphoneos-arm
 Maintainer: mtd
 Installed-Size: 132
-Filename: Files/com.mtd.imessagecache_0.0.1-1_iphoneos-arm.deb
-Size: 3428
-MD5sum: feb2c1efe2e256c38c9a534a33c47f1b
-SHA1: 8511b1b296b8246aa8b244c24f84bd05edfa7a8f
-SHA256: 90e98f3a65cfcef498bdd96fdac9d64e85680118feb8a5c9cbeada4f9935e826
+Filename: Files/com.mtd.imessagecache_0.0.2-1_iphoneos-arm.deb
+Size: 8862
+MD5sum: 17290da029e7d276b7a08e32bac579f1
+SHA1: 51cc5d4405b3ab1aac80bad082fc6054a85069b0
+SHA256: 13908e9bed956067a3881021d024b8af68cb681fb86f9b5d4ccf7888aab874cb
 Section: System
 Description: An awesome library of some sort!!
 Tag: role::developer
@@ -95,15 +95,15 @@ Author: mtd
 Name: WiiAuto
 
 Package: com.mtd.wiiautotool
-Version: 0.0.1-1
+Version: 0.0.2-1
 Architecture: iphoneos-arm
 Maintainer: mtd
 Installed-Size: 144
-Filename: Files/com.mtd.wiiautotool_0.0.1-1_iphoneos-arm.deb
-Size: 4256
-MD5sum: 6bbe2168612c255ca535ac91fd629a0b
-SHA1: db7403742efd3d4a788569d57b9857995d75039e
-SHA256: f596e304ca8717268e0fc5d988bd9e138451d5ae1f7dc71c07b92f4c71088635
+Filename: Files/com.mtd.wiiautotool_0.0.2-1_iphoneos-arm.deb
+Size: 4390
+MD5sum: c7c0fb11ed54f0f2bf8c035edbddf1cd
+SHA1: a49b9b06a38d9bf050aec429f74a81cd9ac4a561
+SHA256: 9282b9839cf0327068ede6f798dd736d2f7475920510c23323dcfc043deba5f1
 Section: System
 Description: An awesome tool of some sort!!
 Tag: role::hacker
@@ -127,16 +127,16 @@ Author: mtd
 Name: wiiautowatcher
 
 Package: com.wiimob.wiiauto
-Version: 0.0.90-1
+Version: 0.0.91-2
 Architecture: iphoneos-arm
 Maintainer: mtd
 Installed-Size: 1464
 Depends: mobilesubstrate, openssh, unzip, Git, org.thebigboss.wifiutil, com.mtd.ioslua, com.mtd.libcherry, com.mtd.libluaext, com.mtd.libluasqlite3, com.mtd.wiiautowatcher, com.mtd.wiiautotool
-Filename: Files/com.wiimob.wiiauto_0.0.90-1_iphoneos-arm.deb
-Size: 340796
-MD5sum: 277d8732613beeddf0409ae516527843
-SHA1: 22fcb0b6f897a68a47d15ed7816d20944fc9e6f4
-SHA256: d49513c9fd55052242b774bf341945f02ed278bc567a68caef4c19fd34093318
+Filename: Files/com.wiimob.wiiauto_0.0.91-2_iphoneos-arm.deb
+Size: 341166
+MD5sum: 93da7188308911632e1921a0b4b8b443
+SHA1: f48d37ea1255a34ce4b3833b896bedc03d28589e
+SHA256: a36254b5fbb2e155e979e8feb32aeeaa51f6193cc3223e8284fcbfb985e3a16c
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: mtd
