@@ -1,3 +1,19 @@
+Package: com.aia.proxytool
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: thinhnv
+Installed-Size: 196
+Filename: Files/Proxytool.deb
+Size: 8144
+MD5sum: b428b8960268ff056e1f4e57e5a9103a
+SHA1: d53cab0ffdf70685da994cb383d9361c50fafc3b
+SHA256: a20da03a5739711e8229255c0cf339213490beb68f4dc0c1812499e47a43707b
+Section: System
+Description: An awesome tool for change proxy wifi!!
+Tag: role::hacker
+Author: thinhnv
+Name: proxytool
+
 Package: com.mtd.imessagecache
 Version: 0.0.2-1
 Architecture: iphoneos-arm
