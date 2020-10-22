@@ -143,16 +143,16 @@ Author: mtd
 Name: wiiautowatcher
 
 Package: com.wiimob.wiiauto
-Version: 0.0.97-1
+Version: 0.0.98-1
 Architecture: iphoneos-arm
 Maintainer: mtd
 Installed-Size: 1480
 Depends: mobilesubstrate, openssh, unzip, Git, org.thebigboss.wifiutil, com.mtd.ioslua, com.mtd.libcherry, com.mtd.libluaext, com.mtd.libluasqlite3, com.mtd.wiiautowatcher, com.mtd.wiiautotool
-Filename: Files/com.wiimob.wiiauto_0.0.97-1_iphoneos-arm.deb
-Size: 345456
-MD5sum: bfaf0c64c68dc24ce728994b2ad51a85
-SHA1: f180f60c0c05706916876e69bbfc166b4b250ccb
-SHA256: 52e43a4bca66ebb1b62ba7f53cb7c7b6640cb8c68af16c77a22b056345a243a4
+Filename: Files/com.wiimob.wiiauto_0.0.98-1_iphoneos-arm.deb
+Size: 345596
+MD5sum: 4ef2e183303e56cdc0949c90d9c1c82c
+SHA1: 067faa091f9ebe54dce1dc8035caea2b8ed3a8a3
+SHA256: ac351fe76e3ac575adaf8183577252358377879c54d76fdddf35245395e5d8af
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: mtd
